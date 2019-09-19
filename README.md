@@ -1,2 +1,2 @@
-# my new practicehello git i am new member
-hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+#hiiii its 19 september
+today is thursday
