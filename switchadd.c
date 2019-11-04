@@ -34,7 +34,8 @@ case'4':
 break;
 
 default:
-	printf("enter wrong number:\n);
+	printf("enter wrong number:\n");
 break;
 return 0;
+}
 }
